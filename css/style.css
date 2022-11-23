@@ -194,7 +194,6 @@ header:hover {
 
 .sec1_main {
   position: relative;
-  max-width: 1236px;
   margin-left: auto;
   margin-right: auto;
   height: 100vh;
@@ -222,13 +221,13 @@ header:hover {
 
 .main_title .main_text {
   font-weight: 700;
-  font-size: 54px;
+  font-size: 47px;
   line-height: 102%;
 }
 
 .main_title .main_text_color {
   font-weight: 700;
-  font-size: 54px;
+  font-size: 47px;
   color: var(--green-color);
   line-height: 102%;
 }
